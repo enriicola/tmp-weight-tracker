@@ -8,6 +8,14 @@ A minimal and opinionated TUI tool to automate weight tracking and calorie adjus
 * **FitByte**
 * **GarmOut**
 * ~~but (bulk + cut)~~
+* **panza**
+* weight overflow
+* ~~kalory/kalories (kilobyte + calories)
+* dumb-scale/dumbilancia
+* yourprotein
+* gymshrimp/gymtonno/gymnemo/gymfat/gymmouse/gymouse
+* ~~herbadeath/acqualife~~
+* ~~clickness instead of fitness~~ 
 
 ## Implementation Plan (TODOs)
 
