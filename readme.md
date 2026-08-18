@@ -9,6 +9,7 @@ A minimal and opinionated TUI tool to automate weight tracking and calorie adjus
 * **GarmOut**
 * ~~but (bulk + cut)~~
 * **panza**
+* **buzza**
 * weight overflow
 * ~~kalory/kalories (kilobyte + calories)
 * dumb-scale/dumbilancia
